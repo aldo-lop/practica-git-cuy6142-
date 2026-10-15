@@ -7,3 +7,4 @@ Repositorio de práctica de Git y GitHub – CUY6142
 
 Ejecución: python3 pokeapi.py
 
+Aldo Lopez
